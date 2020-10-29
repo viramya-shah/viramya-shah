@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viramya-shah" alt="viramya-shah" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Reader Aware Opinion Mining using Deep Learning**
 
 - 👨‍💻 Porfolio [https://viramya-shah.github.io/#/](https://viramya-shah.github.io/#/)
 
