@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Reader Aware Opinion Mining using Deep Learning**
 
-- 👨‍💻 Porfolio [https://viramya-shah.github.io/#/](https://viramya-shah.github.io/#/)
+- 👨‍💻 Resume [https://drive.google.com/file/d/1uYqsUD8amg6W8ZmoKBCssytib420WCRk/view?usp=sharing](Here)
 
 - 📫 How to reach me **shah.viram@northeastern.edu**
 
