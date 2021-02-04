@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Reader Aware Opinion Mining using Deep Learning**
 
-- 👨‍💻 [Resume](https://drive.google.com/file/d/1uYqsUD8amg6W8ZmoKBCssytib420WCRk/view?usp=sharing)
+- 👨‍💻 [Resume](https://drive.google.com/file/d/1rE2LD5BzCnXISItSWW9r9xjjRfRvIk-5/view?usp=sharing)
 
 - 📫 How to reach me **shah.viram@northeastern.edu**
 
