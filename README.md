@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viramya-shah" alt="viramya-shah" /> </p>
 
-- 🔭 I’m currently working on **Reader Aware Opinion Mining using Deep Learning**
+- 🔭 I’m currently working on **Increasing Efficacy of Customer Call Centers using Churn analysis and NLP**
 
 - 👨‍💻 [Resume](https://drive.google.com/file/d/1rE2LD5BzCnXISItSWW9r9xjjRfRvIk-5/view?usp=sharing)
 
